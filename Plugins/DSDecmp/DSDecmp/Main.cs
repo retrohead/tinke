@@ -308,6 +308,7 @@ namespace DSDecmp
 
         internal static string Get_Traduction(string code)
         {
+            return "";
             String message = "";
             try
             {
